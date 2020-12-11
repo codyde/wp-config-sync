@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a50e250.chunk.css",
+    "main.js": "/static/js/main.16eb99d2.chunk.js",
+    "main.js.map": "/static/js/main.16eb99d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88d4c3b8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88d4c3b8.js.map",
+    "static/css/2.316749da.chunk.css": "/static/css/2.316749da.chunk.css",
+    "static/js/2.985c7fc5.chunk.js": "/static/js/2.985c7fc5.chunk.js",
+    "static/js/2.985c7fc5.chunk.js.map": "/static/js/2.985c7fc5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9b32586dabeab6074f27c5cb2a3e1c7c.js": "/precache-manifest.9b32586dabeab6074f27c5cb2a3e1c7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.316749da.chunk.css.map": "/static/css/2.316749da.chunk.css.map",
+    "static/css/main.2a50e250.chunk.css.map": "/static/css/main.2a50e250.chunk.css.map",
+    "static/js/2.985c7fc5.chunk.js.LICENSE.txt": "/static/js/2.985c7fc5.chunk.js.LICENSE.txt",
+    "static/media/k8s.png": "/static/media/k8s.ea798a7a.png",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2",
+    "static/media/wplogo.png": "/static/media/wplogo.e0db6a21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88d4c3b8.js",
+    "static/css/2.316749da.chunk.css",
+    "static/js/2.985c7fc5.chunk.js",
+    "static/css/main.2a50e250.chunk.css",
+    "static/js/main.16eb99d2.chunk.js"
+  ]
+}
